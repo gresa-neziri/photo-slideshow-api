@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/photo-slideshow-api.props" />
+</Project>
